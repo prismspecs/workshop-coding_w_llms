@@ -24,6 +24,14 @@ This workshop will focus on integrated development environments (namely VS Code)
 
 For people interested in making work that deals with technology I advise learning how to program. This class will assume no knowledge and will not engage with the actual code the LLM creates beyond making use of it.
 
+## Examples of Digital Solitude projects
+
++ [Spiral Getty by Shaheer Tarar](https://spiralgetty.wiki/)
++ [Ubos Sa Dagat: The Under Sea by Khokhoi](https://webresidencies.akademie-solitude.de/the-under-sea/)
++ [A New Poetics by Shamica Ruddock and Hannan Jones](https://webresidencies.akademie-solitude.de/a-new-poetics/)
+
+For a full list of projects created in the scope of this residency, [view the full list here](https://webresidencies.akademie-solitude.de/).
+
 ## Integrated Development Environments
 
 An IDE is basically a text editor with a bunch of extra features that make it useful for software development. At the end of the day, all code is plain text, even if this is obscured through something that makes it appear visual (like Touch Designer).
