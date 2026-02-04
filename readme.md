@@ -12,11 +12,9 @@
 
 Though the Polymorphic Futures residency called for blockchain projects this workshop will have a broader focus. There is always a wide array of skillsets in these programs and I find it best to assume no prior experience in programming while also offering some techniques that could be useful even to intermediate programmers. For those of you who are already developing smart contracts this will be beneath your skill level but I welcome you to stay regardless if you feel like it.
 
-I won't cover how to develop smart contracts here because it is such a highly specific topic. For people constructing DAOs and similar tools I urge caution as it is complicated yet essential to create secure contracts, otherwise you wil be highly succeptible to attacks.
+I won't cover how to develop smart contracts here because it is such a highly specific topic and given the time it would take to wait for blocks to generate it is not exactly workshop-friendly. For those interested I included a minimal example in smart_contract/ which can be run inside of [https://remix.ethereum.org](https://remix.ethereum.org). This example shows how to increment, decrement, reset, and retrieve a value on chain. That IDE includes an AI copilot. For people constructing DAOs, smart contracts, and similar tools I urge caution as it is complicated yet essential to create secure contracts, otherwise you wil be highly succeptible to attacks.
 
-I included a minimal example in smart_contract/ which can be run inside of [https://remix.ethereum.org](https://remix.ethereum.org). This example shows how to increment, decrement, reset, and retrieve a value on chain. That IDE includes an AI copilot.
-
-I do think that this can be useful for developing aspects of your projects if you are not already familiar with this sort of workflow. Standing up a page or web app for your project can be done much more efficiently this way than using ChatGPT in the browser. And for the other people attending this who are not part of the residency, this could be generally useful to you in creating everything from your personal website to experimental net art projects and beyond.
+Even if you don't choose to utilize the workflow I will introduce in this workshop for producing the central dApp in your project, what I present could be useful for developing other parts of the work. Standing up a page or web app for your project can be done much more efficiently this way than using ChatGPT in the browser. And for the other people attending this who are not part of the residency, this could be generally useful to you in creating everything from your personal website to experimental net art projects and beyond.
 
 ## Overview
 
